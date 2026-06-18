@@ -1,1 +1,2 @@
 Linux is an open source operating system
+Linux is widely used in DevOps environments

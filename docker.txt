@@ -1,1 +1,2 @@
 Docker is used for containerization
+Docker images are used to create containers
